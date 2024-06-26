@@ -35,6 +35,6 @@ You can find some projects I built as a part of my courses and in my spare time 
   * Trained the model on different timescales, analysed strong short term predictions and long term limitations.
  
 ## Contact Me: 
-* e-mail: avanishgadhikar@gmail.com or h.gadhikar@iitg.ac.in
+* e-mail: [avanishgadhikar@gmail.com](avanishgadhikar@gmail.com) or [h.gadhikar@iitg.ac.in](h.gadhikar@iitg.ac.in)
 * Ph: +91 8605016781
 * [linkedin](https://www.linkedin.com/in/avanish-gadhikar-66ab99261/)
